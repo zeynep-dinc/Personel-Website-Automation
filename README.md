@@ -1,4 +1,4 @@
-# WebsiteCreaterByAutomatical
+# Personel Website Automation 
  Dikkat edilmesi gerekenler;
 1) jarları yükleyin,
 2)JRE 1.8 olmalı, Bu uygulama windows +10 üzerinde çalışmaktadır, IDE Eclipse olmalıdır,
